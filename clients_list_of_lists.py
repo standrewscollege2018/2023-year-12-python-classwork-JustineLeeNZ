@@ -3,9 +3,8 @@
 # list of clients
 client_list = [["Justine Lee", 21],["John Smith", 45]]
 
-# display each client in the list
-for name in client_list:
-    print(name)
+# display an individual client's details in nicely formatted way
+
 
 # display each client in a numbered list
 
@@ -21,5 +20,6 @@ for name in client_list:
 
 
 # add a new client to the list - name and age
+
 
 
